@@ -1,4 +1,5 @@
 # Databricks notebook source
+# DBTITLE 1,Sample DataFrame
 # Sample data
 data = [
     (1, "Alice", 29),
